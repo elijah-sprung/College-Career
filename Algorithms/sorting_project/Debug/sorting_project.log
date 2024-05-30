@@ -1,0 +1,4 @@
+﻿  sorting_project.cpp
+C:\Users\egato\OneDrive\School\Sophomore Year\Sophomore Semester 2\Algorithms\sorting_project\sorting_project.cpp(175,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\egato\OneDrive\School\Sophomore Year\Sophomore Semester 2\Algorithms\sorting_project\sorting_project.cpp(212,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  sorting_project.vcxproj -> C:\Users\egato\OneDrive\School\Sophomore Year\Sophomore Semester 2\Algorithms\sorting_project\Debug\sorting_project.exe
