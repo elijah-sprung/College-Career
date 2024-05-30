@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_4\main.cpp(82,10): warning C4101: 'output': unreferenced local variable
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_4\main.cpp(100): warning C4715: 'Repower': not all control paths return a value
+  prog_4.vcxproj -> C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_4\Debug\prog_4.exe
