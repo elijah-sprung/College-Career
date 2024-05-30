@@ -1,0 +1,3 @@
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Labs\lab_5\Debug\lab_5.exe
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Labs\lab_5\Debug\lab_5.pdb
+C:\Users\egato\OneDrive\School\Freshman Year\Freshman Semester 2\Advanced Programming\Labs\lab_5\Debug\lab_5.exe
