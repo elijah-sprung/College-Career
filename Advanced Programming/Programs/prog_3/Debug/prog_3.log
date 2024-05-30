@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\main.cpp(39,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\uniqueListType.cpp(24,14): warning C4552: '/': result of expression not used
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\uniqueListType.cpp(20): message : while compiling class template member function 'uniqueListType<std::string>::uniqueListType(const arrayListType<T> &)'
+          with
+          [
+              T=std::string
+          ]
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\main.cpp(46): message : see reference to function template instantiation 'uniqueListType<std::string>::uniqueListType(const arrayListType<T> &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\main.cpp(46): message : see reference to class template instantiation 'uniqueListType<std::string>' being compiled
+  prog_3.vcxproj -> C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_3\Debug\prog_3.exe

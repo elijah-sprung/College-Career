@@ -1,0 +1,2 @@
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_1\x64\Debug\prog_1.exe
+C:\Users\egato\OneDrive\School\Freshman Semester 2\Advanced Programming\Programs\prog_1\x64\Debug\prog_1.pdb
