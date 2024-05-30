@@ -1,0 +1,209 @@
+*
+{
+    box-sizing: border-box;
+    font-family: noodle;
+}
+
+body
+{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #333333;
+    color: #000000;
+    text-align: center;
+}
+
+.sidenav
+{
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #000000;
+    overflow-x: hidden;
+    text-align: center;
+}
+
+.sidenav a 
+{
+    color: #FFF100;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.sidenav a:hover
+{
+    background-color: #CCCCCC;
+    color: #000000;
+}
+
+.content
+{
+    margin-left: 200px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: #333333;
+    color: #FFF100;
+    text-align: center;
+    align-content: center;
+}
+
+.footer
+{
+    margin-left: 200px;
+    padding-left: 20px;
+    text-align: center;
+    background-color: #333333;
+    padding: 10px;
+    color: #FFF100;
+    bottom: 0px;
+    font-family: 'Comic Sans MS';
+}
+
+h1
+{
+    font-size: 100px;
+    text-shadow: 10px 10px #000000;
+    padding-top: 0px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.fade-in-text
+{
+    display: inline-block;
+    font-size: 100px;
+    text-shadow: 10px 10px #000000;
+    color: #FFF100;
+    margin: 0px 10px 10px 10px;
+    animation: fadeIn linear 5s;
+    -webkit-animation: fadeIn linear 5s;
+    -moz-animation: fadeIn linear 5s;
+    -o-animation: fadeIn linear 5s;
+    -ms-animation: fadeIn linear 5s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+@-ms-keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+ul
+{
+    list-style-type: square;
+    list-style-position: inside;
+    font-size: 50px;
+}
+
+ol
+{
+    list-style-position: inside;
+}
+
+.text-to-read
+{
+    color: #FFFFFF;
+    text-shadow: 3px 1px #000000;
+    font-size: 20px;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@font-face
+{
+    font-family: noodle;
+    src: src(resources/big_noodle_titling.ttf)
+}
+
+td img
+{
+    height: 350px;
+    width: 350px;
+}
+
+input[type=text], select, textarea
+{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit]
+{
+    background-color: #000000;
+    color: #FFF100;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover
+{
+    background-color: #CCCCCC;
+    color: #000000;
+}
+
+.container
+{
+    border-radius: 5px;
+    background-color: #000000;
+    padding: 20px;
+}
